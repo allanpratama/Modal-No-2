@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
   view: {
     padding: 15,
     borderBottomColor: '#dddddd',
-    borderBottomWidth: 1,
+    borderBottomWidth: 5,
   },
   image: {
     height: 200,
