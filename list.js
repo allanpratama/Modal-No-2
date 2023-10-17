@@ -88,7 +88,7 @@ const List = () => {
               {selectedItem ? selectedItem.title : ''}
             </Text>
             <Button
-              title="Close"
+              title="TUTUP"
               onPress={() => setSelectedItem(null)}
             />
           </View>
